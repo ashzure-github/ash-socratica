@@ -1,0 +1,1 @@
+I have included comments throughout the code where relevant. Feel free to text me with questions or ask chatgpt.
